@@ -5,6 +5,10 @@
 .obsidian/
 .tangent/
 .tangentfolder
+*.epub
+*.pdf
+*odt
+
 # Packaging
 .cask/
 .eask/
