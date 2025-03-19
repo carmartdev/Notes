@@ -1,6 +1,9 @@
 # Compiled
 *.elc
 
+*.json
+.obsidian/
+.tangent/
 # Packaging
 .cask/
 .eask/
