@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "8d67749e08deaaa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b36c458adb7a84c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02849b1909f0a488",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8abf81dbae89bdc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a18cef7069b5006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b175c697fe42ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc2a35e1c5ac8a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e6abc4ad3fd92ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "016c0cd4fb8e67db",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a6c27a89bec30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76e820ec82cdc86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0ac08efcf910a792",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f1a57fc418188564",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad3f5bc2ae8bd8b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "02849b1909f0a488",
+  "lastOpenFiles": [
+    "Completed/ژان پل سارتر.md",
+    "Completed/پوچ انگاری.md",
+    "Completed/پهلوی.md",
+    "Completed/پارسی باستان.md",
+    "Completed/نیچه.md",
+    "Completed/نقطه ی عشق.md",
+    "Completed/محمد.md",
+    "Completed/مبانی.md",
+    "Completed/ماکیاولی.md",
+    "Completed/فرانسوی.md",
+    "Completed/شوپنهاور.md",
+    "Completed/سیزیف.md",
+    "Completed/سنکا.md",
+    "Completed/سقراط.md",
+    "Completed/سعدی.md",
+    "Completed/سجاد افشاریان.md",
+    "Completed/زرتشت.md",
+    "Completed/رواقی گری.md",
+    "Completed/دو قرن سکوت.md",
+    "Completed/خط میخی.md",
+    "Completed/حافظ.md",
+    "Completed/جان لاک.md",
+    "Completed/تاریخ اقوام هخامنشی.md",
+    "Completed/بیگانه.md",
+    "Completed/اگزیستانسیالیسم.md",
+    "Completed/اسکارلت دهه شصت.md",
+    "Completed",
+    "LICENSE",
+    "Notes/LICENSE",
+    "Notes/Completed",
+    "Notes"
+  ]
+}
